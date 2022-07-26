@@ -10,7 +10,7 @@
 * 学 历：本科  
 * 邮 箱：wj@wangjun.work
 * github：[github.com/wj100](http://github.com/wj100){:target="_blank"}
-* 博 客：[blog.wangjun.work](http://blog.wangjun.work){:target="_blank"}
+* 博 客：[csdn.wangjun.work](http://csdn.wangjun.work){:target="_blank"}
 
 
 ## 专业技能
