@@ -19,11 +19,11 @@
 * 掌握常用liunx命令，了解java语言，shell编程，nginx部署
 
 
-## 工作及教育经历
+## 工作经历
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+* 2021.08~至今&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 慧博云通科技股份有限公司（外派网易）
+* 2020.08至2021.05&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;柯莱特科技股份有限公司（外派阿里）
+* 2019.06至2020.08&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;南京英斯特信息科技有限公司 
 
 
 ## 项目经历
