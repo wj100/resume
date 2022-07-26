@@ -5,9 +5,9 @@
 ## 个人信息 
 
 * 姓 名：汪骏&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：27  
-* 电话/微信：19937785238&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;学 历：本科  
-* 邮 箱：wj@wangjun.work &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;github：[github.com/wj100](github.com/wj100)
-* 博 客：[blog.wangjun.work](blog.wangjun.work) 
+* 电话/微信：19937785238&emsp;&emsp;&emsp;&emsp;&emsp;;学 历：本科  
+* 邮 箱：wj@wangjun.work &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;github：[github.com/wj100](http://github.com/wj100?_blank)
+* 博 客：[blog.wangjun.work](http://blog.wangjun.work?_blank) 
 
 
 ## 专业技能
