@@ -4,9 +4,12 @@
 
 ## 个人信息 
 
-* 姓 名：汪骏&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：27  
-* 电话/微信：19937785238&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;学 历：本科  
-* 邮 箱：wj@wangjun.work &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;github：[github.com/wj100](http://github.com/wj100){:target="_blank"}
+* 姓 名：汪骏&
+* 年 龄：27  
+* 电话/微信：19937785238
+* 学 历：本科  
+* 邮 箱：wj@wangjun.work
+* github：[github.com/wj100](http://github.com/wj100){:target="_blank"}
 * 博 客：[blog.wangjun.work](http://blog.wangjun.work){:target="_blank"}
 
 
@@ -22,8 +25,8 @@
 ## 工作经历
 
 * 2021.08~至今&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;慧博云通科技股份有限公司（外派网易）
-* 2020.08至2021.05&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;柯莱特科技股份有限公司（外派阿里）
-* 2019.06至2020.08&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;南京英斯特信息科技有限公司 
+* 2020.08至2021.05&emsp;&emsp;&emsp;&emsp;&emsp;柯莱特科技股份有限公司（外派阿里）
+* 2019.06至2020.08&emsp;&emsp;&emsp;&emsp;&emsp;南京英斯特信息科技有限公司 
 
 
 ## 项目经历
