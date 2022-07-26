@@ -9,17 +9,22 @@
 * 邮 箱：wj@wangjun.work &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;github：[github.com/wj100](github.com/wj100)
 * 博 客：[blog.wangjun.work](blog.wangjun.work) 
 
+
+## 专业技能
+
+* 理解web标签语义化，熟练使用css3新特性，es6语法熟练
+* 熟练使用vue，react技术栈，及常用工具（git、eslint、webpack、husky）
+* 熟练使用node.js，对express,koa各类中间件有使用经验
+* 熟悉小程序，uni-app等移动端开发技术
+* 掌握常用liunx命令，了解java语言，shell编程，nginx部署
+
+
 ## 工作及教育经历
 
 * 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
 * XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
 * XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
 
-## 专业技能
-
-* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
-* 掌握基础数据结构和算法的基本原理
-* 等等
 
 ## 项目经历
 
