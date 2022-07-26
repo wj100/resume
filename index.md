@@ -1,12 +1,13 @@
- <center>
+ <!-- <center>
      <h1>汪骏</h1>
- </center>
+ </center> -->
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com    
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
+* 姓 名：汪骏&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：27  
+* 电话/微信：19937785238&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;学 历：本科  
+* 邮 箱：wj@wangjun.work &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  github：github.com/wjune211    
+* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; github：github.com/wjune211
 
 ## 工作及教育经历
 
