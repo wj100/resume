@@ -2,9 +2,9 @@
 ## 个人信息 
 
 * 姓 名：汪骏
-* 年 龄：27  
+* 年 龄：27
 * 电话/微信：19937785238
-* 学 历：本科  
+* 学 历：本科
 * 邮 箱：wj@wangjun.work
 * github：[github.com/wj100](http://github.com/wj100){:target="_blank"}
 * 博 客：[csdn.wangjun.work](http://csdn.wangjun.work){:target="_blank"}
