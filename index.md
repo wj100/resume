@@ -1,5 +1,5 @@
  <center>
-     <h1>[下载pdf简历](http://www.wangjun.work/source/%E6%B1%AA%E9%AA%8F%E7%AE%80%E5%8E%862021.pdf){:target="_blank"}</h1>
+     <h1>[下载pdf简历](http://www.wangjun.work/source/汪骏简历2021.pdf){:target="_blank"}</h1>
  </center>
 
 ## 个人信息 
