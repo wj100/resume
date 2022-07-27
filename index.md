@@ -16,7 +16,7 @@
 - 掌握小程序等移动端开发技术
 - 掌握Webpack,Rollup前端构建工具
 - 熟练使用Nodejs
-- 掌握常用liunx命令，了解Java、Nginx、MySql 
+- 熟悉常用liunx命令，了解Java、Nginx、MySql 
 ## 工作经历
 
 * 2021.08至今&emsp;&emsp;&emsp;慧博云通科技股份有限公司(驻网易)
