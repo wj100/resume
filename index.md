@@ -12,16 +12,11 @@
 
 ## 专业技能
 
-: 熟练使用vue,react技术栈
-: 掌握node,experss,koa
-: 了解linux,nginx,mySql,java 
-;* 理解web标签语义化，熟练使用css3新特性，es6语法熟练
-;* 熟练使用vue，react技术栈，及常用工具（git、eslint、webpack、husky）
-;* 熟练使用node.js，对express,koa各类中间件有使用经验
-;* 熟悉小程序，uni-app等移动端开发技术
-;* 掌握常用liunx命令，了解java语言，shell编程，nginx部署 
-
-
+- 掌握Vue,React技术栈
+- 掌握小程序，Uni-app等移动端开发技术
+- 掌握Webpack,Rollup前端构建工具
+- 熟练使用Nodejs
+- 掌握常用liunx命令，了解Java、Nginx、MySql 
 ## 工作经历
 
 * 2021.08至今&emsp;&emsp;&emsp;慧博云通科技股份有限公司(驻网易)
