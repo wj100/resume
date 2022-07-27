@@ -1,4 +1,4 @@
-[下载pdf简历](http://www.wangjun.work/source/汪骏简历2022.pdf){:target="_blank"}
+[下载pdf简历](http://www.wangjun.work/source/汪骏简历.pdf){:target="_blank"}
 ## 个人信息 
 
 * 姓 名：汪骏
@@ -19,9 +19,9 @@
 - 熟悉常用liunx命令，了解Java、Nginx、MySql 
 ## 工作经历
 
-* 2021.08至今&emsp;&emsp;&emsp;慧博云通科技股份有限公司(驻网易)
-* 2020.08至2021.05&emsp;柯莱特科技股份有限公司(驻阿里)
-* 2019.06至2020.08&emsp;南京英斯特信息科技有限公司
+* 2021.04至今&emsp;&emsp;&emsp;慧博云通科技股份有限公司(驻网易)
+* 2020.07至2021.04&emsp;柯莱特科技股份有限公司(驻阿里)
+* 2017.06至2020.07&emsp;南京英斯特信息科技有限公司
 
 
 ## 项目经历
