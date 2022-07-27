@@ -13,7 +13,7 @@
 ## 专业技能
 
 - 掌握Vue,React技术栈
-- 掌握小程序，Uni-app等移动端开发技术
+- 掌握小程序等移动端开发技术
 - 掌握Webpack,Rollup前端构建工具
 - 熟练使用Nodejs
 - 掌握常用liunx命令，了解Java、Nginx、MySql 
