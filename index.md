@@ -1,7 +1,4 @@
- <center>
-     [下载pdf简历](http://www.wangjun.work/source/汪骏简历2021.pdf)
- </center>
-
+ [下载pdf简历](http://www.wangjun.work/source/汪骏简历2021.pdf)
 ## 个人信息 
 
 * 姓 名：汪骏
