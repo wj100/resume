@@ -1,4 +1,4 @@
-[下载pdf简历](http://www.wangjun.work/source/汪骏简历.pdf){:target="_blank"}
+[下载pdf简历](http://chat.wangjun.work/source/%E6%B1%AA%E9%AA%8F%E7%AE%80%E5%8E%862022.pdf){:target="_blank"}
 ## 个人信息 
 
 * 姓 名：汪骏
