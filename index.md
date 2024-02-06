@@ -1,4 +1,4 @@
-[下载pdf简历](http://chat.wangjun.work/source/%E6%B1%AA%E9%AA%8F%E7%AE%80%E5%8E%862022.pdf){:target="_blank"}
+[下载pdf简历](http://cdn.wangjun.work/store/%E6%B1%AA%E9%AA%8F.pdf){:target="_blank"}
 ## 个人信息 
 
 * 姓 名：汪骏
@@ -12,7 +12,7 @@
 
 ## 专业技能
 
-- 掌握Vue,React技术栈
+- 掌握Vue,React,angularJs技术栈
 - 掌握小程序等移动端开发技术
 - 掌握Webpack,Rollup前端构建工具
 - 熟练使用Nodejs
@@ -20,8 +20,8 @@
 ## 工作经历
 
 * 2021.05至今&emsp;&emsp;&emsp;慧博云通科技股份有限公司(驻网易)
-* 2020.08至2021.04&emsp;柯莱特科技股份有限公司(驻阿里)
-* 2019.07至2020.07&emsp;南京英斯特信息科技有限公司
+* 2020.08至2021.05&emsp;柯莱特科技股份有限公司(驻阿里)
+* 2019.06至2020.08&emsp;南京英斯特信息科技有限公司
 
 
 ## 项目经历
@@ -34,8 +34,8 @@
 	从需求分析到数据库表设计，前后端开发，部署上线均为个人独立完成，博客功能不是很复杂，但是让我对前后端分离开发，Vue的组件化思想，Node对数据库的操控，项目的整个生命周期等方面都有了更好的认识。
   * ###### 技术实现  
     使用Vue全家桶进行前端部分的开发，后端运用node及express框架实现对数据库的增删改查，后期使用koa重写了一次。前端使用nginx部署，后端使用pm2实现进程守护
-  * ###### 项目地址  
-    [www.wangjun.work](http://www.wangjun.work){:target="_blank"}
+  <!-- * ###### 项目地址  
+    [www.wangjun.work](http://www.wangjun.work){:target="_blank"} -->
 
 ##### 气象大数据治理中心
   * ###### 主要技术  
@@ -62,8 +62,43 @@
     平台授权流程差异与变动，企业域名cname方案，平台差异兼容邮件文件下载，预览功能。
 
 ## 开源
-- 基于vue2的仿ant风格年份选择组件 https://www.npmjs.com/package/vue-year-picker
-- 企业邮箱年终报告沉淀下来的pdf分页下载工具 https://www.npmjs.com/package/paging-pdf
-- 响应式Echarts解决方案  https://www.npmjs.com/package/auto-size-echart
-- 前端明水印（可配置水印疏密，动态计算宽高） https://www.npmjs.com/package/watermark-pub
-- 为企业邮协议文档更迭，基于开源项目进行二次开发的word转html工具  https://github.com/wj100/word2html
+<!-- - 基于vue2的仿ant风格年份选择组件 [npm](https://www.npmjs.com/package/vue-year-picker)
+- 企业邮箱年终报告沉淀下来的pdf分页下载工具 [npm](https://www.npmjs.com/package/paging-pdf)
+- 响应式Echarts解决方案  [npm](https://www.npmjs.com/package/auto-size-echart)
+- 为企业邮协议文档更迭，基于开源项目进行二次开发的word转html工具  [github](https://github.com/wj100/word2html) -->
+<table>
+  <thead align="center">
+      <tr>
+        <td><b>🎁 项目</b></td>
+        <td><b>⏬ 下载量</b></td>
+        <td><b>💬 备注</b></td>
+     </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.npmjs.com/package/paging-pdf"><b>paging-pdf</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/npm/dt/paging-pdf.svg"/></td>
+      <td>企业邮箱年终报告沉淀下来的pdf分页下载工具</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.npmjs.com/package/vue-year-picker"><b>vue-year-picker</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/npm/dt/vue-year-picker.svg"/></td>
+      <td>基于vue2的仿ant风格年份选择组件</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.npmjs.com/package/auto-size-echart"><b>auto-size-echart</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/npm/dt/auto-size-echart.svg"/></td>
+      <td>响应式Echarts解决方案</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.npmjs.com/package/watermark-pub"><b>watermark-pub</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/npm/dt/watermark-pub.svg"/></td>
+      <td>前端明水印</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/wj100/word2html"><b>word2html</b></a></td>
+      <td></td>
+      <td>为企业邮协议文档更迭，基于开源项目进行二次开发的word转html工具</td>
+    </tr>
+  </tbody>
+</table>
