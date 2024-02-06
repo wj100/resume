@@ -19,9 +19,9 @@
 - 熟悉常用liunx命令，了解Java、Nginx、MySql 
 ## 工作经历
 
-* 2021.04至今&emsp;&emsp;&emsp;慧博云通科技股份有限公司(驻网易)
-* 2020.07至2021.04&emsp;柯莱特科技股份有限公司(驻阿里)
-* 2017.06至2020.07&emsp;南京英斯特信息科技有限公司
+* 2021.05至今&emsp;&emsp;&emsp;慧博云通科技股份有限公司(驻网易)
+* 2020.08至2021.04&emsp;柯莱特科技股份有限公司(驻阿里)
+* 2019.07至2020.07&emsp;南京英斯特信息科技有限公司
 
 
 ## 项目经历
@@ -65,4 +65,5 @@
 - 基于vue2的仿ant风格年份选择组件 https://www.npmjs.com/package/vue-year-picker
 - 企业邮箱年终报告沉淀下来的pdf分页下载工具 https://www.npmjs.com/package/paging-pdf
 - 响应式Echarts解决方案  https://www.npmjs.com/package/auto-size-echart
+- 前端明水印（可配置水印疏密，动态计算宽高） https://www.npmjs.com/package/watermark-pub
 - 为企业邮协议文档更迭，基于开源项目进行二次开发的word转html工具  https://github.com/wj100/word2html
