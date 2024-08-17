@@ -11,6 +11,6 @@ const options = {
       syntax: ["footnote", "sup", "sub"]
     }
 }
-markdownpdf(options).from("example.md").to("汪骏（前端）.pdf", function () {
+markdownpdf(options).from("index.md").to("汪骏（前端）.pdf", function () {
     console.log("PDF生成完毕");
   });

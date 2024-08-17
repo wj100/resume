@@ -1,4 +1,4 @@
-[下载pdf简历](http://cdn.wangjun.work/store/%E6%B1%AA%E9%AA%8F.pdf)
+[下载pdf简历](http://cdn.wangjun.work/store/%E6%B1%AA%E9%AA%8F.pdf){:target="_blank"}
 ## 个人信息 
 
 * 姓 名：汪骏
@@ -6,8 +6,8 @@
 * 电话/微信：19937785238
 * 学 历：本科
 * 邮 箱：mail@wangjun.work
-* github：[github.com/wj100](http://github.com/wj100)
-* 博 客：[csdn.wangjun.work](http://csdn.wangjun.work)
+* github：[github.com/wj100](http://github.com/wj100){:target="_blank"}
+* 博 客：[csdn.wangjun.work](http://csdn.wangjun.work){:target="_blank"}
 
 
 ## 专业技能
@@ -26,17 +26,18 @@
 
 ## 项目经历
 
-### 个人博客
-  * __主要技术__  
+##### 个人博客 
+  * 主要技术  
     Vue2 + Node + Express + Mysql + pm2
   * 项目描述  
     该项目为方便个人工作学习记录笔记所开发，实现了文章的发布，分类，搜索，评论等功能。
 	从需求分析到数据库表设计，前后端开发，部署上线均为个人独立完成，博客功能不是很复杂，但是让我对前后端分离开发，Vue的组件化思想，Node对数据库的操控，项目的整个生命周期等方面都有了更好的认识。
   * 技术实现  
     使用Vue全家桶进行前端部分的开发，后端运用node及express框架实现对数据库的增删改查，后期使用koa重写了一次。前端使用nginx部署，后端使用pm2实现进程守护
+  <!-- * ###### 项目地址  
+    [www.wangjun.work](http://www.wangjun.work){:target="_blank"} -->
 
-
-### 气象大数据治理中心
+##### 气象大数据治理中心
   * 主要技术  
     Vue2 + Echarts + 天地图
   * 项目描述  
@@ -44,7 +45,7 @@
   * 技术实现  
     使用echarts及数字滚动插件开发可视化监控页面，调用天地图相关api对地图进行点选圈选框选获取经纬度，使用element表单表格等组件创建资源信息，运用相关插件实现省市区地域的选择，树形结构的展开合并，禁用原生鼠标右击菜单并生成系统所需菜单，运用echarts库及相关算法实现可拖拽改变的折线图柱形图。
 
-### wework管理平台
+##### wework管理平台
   * 主要技术  
     React + AntDesign + Ts
   * 项目描述  
@@ -52,7 +53,7 @@
   * 技术实现  
     使用umi搭建项目框架，AntDesign pro快速进行页面开发，登录对接集团统一认证中心，各功能模块完全解耦，少量全局状态使用dva管理
 
-### 企业邮箱对接第三方平台（微信、企微、钉钉、飞书）
+##### 企业邮箱对接第三方平台（微信、企微、钉钉、飞书）
   * 主要技术  
     Vue2 + 各平台小程序
   * 项目描述  
@@ -61,10 +62,43 @@
     平台授权流程差异与变动，企业域名cname方案，平台差异兼容邮件文件下载，预览功能。
 
 ## 开源
-| 项目 | 下载量 | 备注 |
-|---------|-----------|---------|
-| [**paging-pdf**](https://www.npmjs.com/package/paging-pdf) | ![Stars](https://img.shields.io/npm/dt/paging-pdf.svg) | 企业邮箱年终报告沉淀下来的pdf分页下载工具 |
-| [**vue-year-picker**](https://www.npmjs.com/package/vue-year-picker) | ![Stars](https://img.shields.io/npm/dt/vue-year-picker.svg) | 基于vue2的仿ant风格年份选择组件 |
-| [**auto-size-echart**](https://www.npmjs.com/package/auto-size-echart) | ![Stars](https://img.shields.io/npm/dt/auto-size-echart.svg) | 响应式Echarts解决方案 |
-| [**watermark-pub**](https://www.npmjs.com/package/watermark-pub) | ![Stars](https://img.shields.io/npm/dt/watermark-pub.svg) | 前端明水印 |
-| [**word2html**](https://github.com/wj100/word2html) |  | 为企业邮协议文档更迭，基于开源项目进行二次开发的word转html工具 |
+<!-- - 基于vue2的仿ant风格年份选择组件 [npm](https://www.npmjs.com/package/vue-year-picker)
+- 企业邮箱年终报告沉淀下来的pdf分页下载工具 [npm](https://www.npmjs.com/package/paging-pdf)
+- 响应式Echarts解决方案  [npm](https://www.npmjs.com/package/auto-size-echart)
+- 为企业邮协议文档更迭，基于开源项目进行二次开发的word转html工具  [github](https://github.com/wj100/word2html) -->
+<table>
+  <thead align="center">
+      <tr>
+        <td><b>🎁 项目</b></td>
+        <td><b>⏬ 下载量</b></td>
+        <td><b>💬 备注</b></td>
+     </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.npmjs.com/package/paging-pdf"><b>paging-pdf</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/npm/dt/paging-pdf.svg"/></td>
+      <td>企业邮箱年终报告沉淀下来的pdf分页下载工具</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.npmjs.com/package/vue-year-picker"><b>vue-year-picker</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/npm/dt/vue-year-picker.svg"/></td>
+      <td>基于vue2的仿ant风格年份选择组件</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.npmjs.com/package/auto-size-echart"><b>auto-size-echart</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/npm/dt/auto-size-echart.svg"/></td>
+      <td>响应式Echarts解决方案</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.npmjs.com/package/watermark-pub"><b>watermark-pub</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/npm/dt/watermark-pub.svg"/></td>
+      <td>前端明水印</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/wj100/word2html"><b>word2html</b></a></td>
+      <td></td>
+      <td>为企业邮协议文档更迭，基于开源项目进行二次开发的word转html工具</td>
+    </tr>
+  </tbody>
+</table>
