@@ -1,0 +1,25 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "汪骏的个人简历",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wj100/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wj100/resume/issues"
+  },
+  "homepage": "https://github.com/wj100/resume#readme",
+  "dependencies": {
+    "markdown-pdf": "^11.0.0",
+    "puppeteer": "^23.1.0",
+    "remarkable-classy": "^0.0.1"
+  }
+}
