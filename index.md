@@ -1,4 +1,4 @@
-[下载pdf简历](https://raw.githubusercontent.com/wj100/resume/gh-pages/汪骏(前端).pdf)
+[下载pdf简历](https://raw.githubusercontent.com/wj100/resume/gh-pages/汪骏（前端）.pdf)
 ## 个人信息 
 
 * 姓 名：汪骏
