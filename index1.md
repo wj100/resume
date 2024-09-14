@@ -102,3 +102,13 @@
     </tr>
   </tbody>
 </table>
+
+
+## 开源
+| 项目 | 下载量 | 备注 |
+|---------|-----------|---------|
+| [**paging-pdf**](https://www.npmjs.com/package/paging-pdf) | ![Stars](https://img.shields.io/npm/dt/paging-pdf.svg) | 企业邮箱年终报告沉淀下来的pdf分页下载工具 |
+| [**vue-year-picker**](https://www.npmjs.com/package/vue-year-picker) | ![Stars](https://img.shields.io/npm/dt/vue-year-picker.svg) | 基于vue2的仿ant风格年份选择组件 |
+| [**auto-size-echart**](https://www.npmjs.com/package/auto-size-echart) | ![Stars](https://img.shields.io/npm/dt/auto-size-echart.svg) | 响应式Echarts解决方案 |
+| [**watermark-pub**](https://www.npmjs.com/package/watermark-pub) | ![Stars](https://img.shields.io/npm/dt/watermark-pub.svg) | 前端明水印 |
+| [**word2html**](https://github.com/wj100/word2html) |  | 为企业邮协议文档更迭，基于开源项目进行二次开发的word转html工具 |
